@@ -5,29 +5,33 @@
 ## Content
 
 - React
-  - [https://swennemans.gitbooks.io/building-your-own-react-js/content/02-building_basic_vdom/01-getting-started.html](https://swennemans.gitbooks.io/building-your-own-react-js/content/02-building_basic_vdom/01-getting-started.html)
+  - [Building our own React-like implementation](https://swennemans.gitbooks.io/building-your-own-react-js/content/02-building_basic_vdom/01-getting-started.html)
 - React-Router
-  - [https://tylermcginnis.com/build-your-own-react-router-v4/](https://tylermcginnis.com/build-your-own-react-router-v4/)
+  - [Build your own React Router v4](https://tylermcginnis.com/build-your-own-react-router-v4/)
 
 - Vue
-  - [https://github.com/jsrebuild/build-your-own-vuejs](https://github.com/jsrebuild/build-your-own-vuejs)
+  - [Build-your-own-vuejs](https://github.com/jsrebuild/build-your-own-vuejs)
 - Vue Router
-  - [https://vueschool.io/articles/vuejs-tutorials/creating-your-own-router/](https://vueschool.io/articles/vuejs-tutorials/creating-your-own-router/)
+  - [Creating Your Own Vue.js Router](https://vueschool.io/articles/vuejs-tutorials/creating-your-own-router/)
 
 - Angular
-  - [https://github.com/teropa/build-your-own-angularjs](https://github.com/teropa/build-your-own-angularjs)
+  - [Build-your-own-angularjs](https://github.com/teropa/build-your-own-angularjs)
 
 - jQuery
 
-  - [http://dfsq.info/site/read/writing-your-own-jquery](http://dfsq.info/site/read/writing-your-own-jquery)
+  - [Writing your own jQuery](http://dfsq.info/site/read/writing-your-own-jquery)
 
 - Lodash
-  - [https://www.youtube.com/watch?v=kLksX2CIuXk&list=PLeHA3yHguTjd8YW0PvL4z6F86sC0QecKs](https://www.youtube.com/watch?v=kLksX2CIuXk&list=PLeHA3yHguTjd8YW0PvL4z6F86sC0QecKs)
-  - [https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore)
+  - [Build Your Own Lodash](https://www.youtube.com/watch?v=kLksX2CIuXk&list=PLeHA3yHguTjd8YW0PvL4z6F86sC0QecKs)
+  - [You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore)
 
 - Moment
-  - [https://github.com/you-dont-need/You-Dont-Need-Momentjs](https://github.com/you-dont-need/You-Dont-Need-Momentjs)
+  - [You-Dont-Need-Momentjs](https://github.com/you-dont-need/You-Dont-Need-Momentjs)
+
+- Blockchain
+  - [Blockchain js](https://www.youtube.com/watch?v=zVqczFZr124&index=2&list=PL0WnWVz6wfyCWR5UfDpjlBsekzpEAP3lb&t=11s)
 
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
